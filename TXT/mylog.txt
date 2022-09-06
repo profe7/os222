@@ -11,3 +11,5 @@ ZCZC W00 30   L05 Quiz related including studying
 ZCZC W01 100  L02 ZOOM meetings related
 ZCZC W01 70   L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 5    L03 GitHub and git related, including commit, push, pull
+ZCZC W01 5    L01 SCELE/Discord related
+ZCZC W01 5    L03 GitHub and git related, including commit, push, pull
