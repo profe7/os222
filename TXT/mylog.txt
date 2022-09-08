@@ -14,4 +14,5 @@ ZCZC W01 5    L03 GitHub and git related, including commit, push, pull
 ZCZC W01 5    L01 SCELE/Discord related
 ZCZC W01 5    L03 GitHub and git related, including commit, push, pull
 ZCZC W01 5    L03 GitHub and git related, including commit, push, pull
+ZCZC W01 100  L02 ZOOM meetings related
 ZCZC W01 60   L01 SCELE/Discord related
