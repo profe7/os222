@@ -4,7 +4,7 @@ permalink: LINKS/
 <span style="color:blue; font-weight:bold; font-size:larger;">Muhammad Fahreza Azka Arafat</span>
 <br><br>
 [LINKS](https://github.com/profe7/os222/blob/71197660fffc84febb136987b5d6048ea73dd01e/links.md) ---
-[LOG](https://github.com/profe7/os222/blob/385495f0f0bf68d790cf7e073ba83c41907e9e14/TXT/mylog.txt) ---
+[LOG](https://raw.githubusercontent.com/profe7/os222/master/TXT/mylog.txt) ---
 [GITHUB](https://github.com/profe7/os222)
 <br>
 <hr>
