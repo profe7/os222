@@ -2,4 +2,4 @@
 
 [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [RANK](TXT/myrank.txt) | [REPOSITORY](https://github.com/profe7/os222/)
 
-### © 2022 Muhammad Fahreza Azka Arafat
+## © 2022 Muhammad Fahreza Azka Arafat
