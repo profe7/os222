@@ -1,4 +1,4 @@
----
+--
 permalink: LINKS/
 ---
 <span style="color:blue; font-weight:bold; font-size:larger;">Muhammad Fahreza Azka Arafat</span>
@@ -17,5 +17,6 @@ A video on basic linux commands, very thorough and easy to understand. Quite lon
 2. [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
 PDF version of the book given my Mr. Rahmat, saves internal storage because you don't have to download it, you can just open it in your browser.
 
-
+5. [Symmetric vs. Asymmetric Encryption: What's the Difference?](https://www.trentonsystems.com/blog/symmetric-vs-asymmetric-encryption)<br>
+Great refresher on the course material, visit if you forget.
 
