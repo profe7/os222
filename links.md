@@ -19,3 +19,7 @@ Great refresher on the course material, visit if you forget.
 
 ### Week 03
 [Linux File System Basics](https://www.dummies.com/computers/operating-systems/linux/linux-file-system-basics/) <br> Great addition to the provided studying material.
+
+### Week 04
+[C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=302s) <br>
+The whole shabang. Very complete tutorial for anyone who's starting out writing in C.
