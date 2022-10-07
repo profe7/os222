@@ -28,8 +28,8 @@ The whole shabang. Very complete tutorial for anyone who's starting out writing 
 1. [What is virtual memory? - Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) <br>
 Basic introduction to virtual memory, a good watch before delving into the materian in OS book.
 
-2. [Demand Paging - Sistem Operasi] (https://www.youtube.com/watch?v=54BgdAXGxXk) <br>
+2. [Demand Paging - Sistem Operasi](https://www.youtube.com/watch?v=54BgdAXGxXk)<br>
 Condensed video about demand paging, not super in depth but still a good watch.
 
-3. [NUMA Architecture| Non Uniform Memory Access Policy/Model | Numa Node Configuration (CPU Affinity)] (https://www.youtube.com/watch?v=gCOEunP5kjs) <br>
+3. [NUMA Architecture| Non Uniform Memory Access Policy/Model | Numa Node Configuration (CPU Affinity)](https://www.youtube.com/watch?v=gCOEunP5kjs)<br>
 Short basic introduction to NUMA concept.
