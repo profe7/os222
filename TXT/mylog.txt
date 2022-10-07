@@ -1,4 +1,4 @@
-  Format
+# Log  Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10   L03 GitHub and git related, including commit, push, pull
@@ -50,3 +50,10 @@ ZCZC W04 3    L05 Quiz related including studying
 ZCZC W04 15   L25 C-language including Make.
 ZCZC W04 5    L22 Linux CLI including tar, etc.
 ZCZC W04 60   L09 Assignment in general
+ZCZC W05 100  L02 ZOOM meetings related
+ZCZC W05 3    L05 Quiz related including studying
+ZCZC W05 100  L02 ZOOM meeting related, OFFLINE CLASS
+ZCZC W05 60   L05 Quiz related including studying
+ZCZC W05 3    L05 Quiz related including studying
+ZCZC W05 60   L09 Assignment in General
+ZCZC W05 80   L09 Assignment in General
