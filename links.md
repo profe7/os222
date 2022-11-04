@@ -33,3 +33,10 @@ Condensed video about demand paging, not super in depth but still a good watch.
 
 3. [NUMA Architecture| Non Uniform Memory Access Policy/Model | Numa Node Configuration (CPU Affinity)](https://www.youtube.com/watch?v=gCOEunP5kjs)<br>
 Short basic introduction to NUMA concept.
+
+### Week 06
+1. [Process Table and Process Control Block (PCB)](https://www.geeksforgeeks.org/process-table-and-process-control-block-pcb/)<br> A short and simple intro to the Process Control Block.
+
+2. [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)<br> A short and simple intro to Process Schedulers.
+
+3. [Procedures & Activation Records](https://www.rose-hulman.edu/class/csse/csse404/schedule/day17/Procedures.pdf)<br> A dive in more detail into procedures & activation records
