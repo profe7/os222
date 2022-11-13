@@ -63,3 +63,9 @@ ZCZC W06 3    L05 Quiz related including studying
 ZCZC W06 60   L05 Quiz related including studying
 ZCZC W06 3    L05 Quiz related including studying
 ZCZC W06 25   L09 Assignment in general
+ZCZC W07 100  L02 ZOOM meetings related (OFFLINE CLASS)
+ZCZC W07 3    L05 Quiz related including studying
+ZCZC W07 80   L05 Quiz related including studying
+ZCZC W07 3    L05 Quiz related including studying
+ZCZC W07 180  L09 Assignment in general
+ZCZC W07 20   L09 Assignment in general

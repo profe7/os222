@@ -40,3 +40,11 @@ Short basic introduction to NUMA concept.
 2. [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)<br> A short and simple intro to Process Schedulers.
 
 3. [Procedures & Activation Records](https://www.rose-hulman.edu/class/csse/csse404/schedule/day17/Procedures.pdf)<br> A dive in more detail into procedures & activation records
+
+### Week 07
+1. [How To Use The scp Command to Copy a File From Remote to Local (and vice versa)](https://www.youtube.com/watch?v=q2OHvlr081s&t=315)<br> A really nice and short video to easily understand how to move files between remote and local.
+
+2. [Multithreading Models in Operating system](https://www.javatpoint.com/multithreading-models-in-operating-system)<br> A really nice read if you want to dive a little deeper into the concept of multithreading.
+
+3. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
+A short read about semaphores. Gives you the basic understanding of the concept.
