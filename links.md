@@ -55,3 +55,10 @@ A short read about semaphores. Gives you the basic understanding of the concept.
 2. [Zlib package for LFS](https://ftp.icm.edu.pl/packages/zlib/zlib-1.2.12.tar.xz)<br> A link to the appropriate zlib-1.2.12.tar.xz package needed for this week's LFS, mine was missing so i got it from there.
 
 3. [Linux From Scratch 7.10 - 1: Build Your Own Operating System](https://www.youtube.com/watch?v=8WsDcW5SQ9Y)<br> A simple intro to Linux From Scratch.
+
+### Week 09
+1. [3D XPoint](https://www.techtarget.com/searchstorage/definition/3D-XPoint)<br> A short interesting read about 3D-Xpoint developed by semiconductors giant Intel and Micron.
+
+2. [What is NVMe™ and why is it important? A Technical Guide](https://blog.westerndigital.com/nvme-important-data-driven-businesses/)<br> A short but deeper dive into the NVMe standard.
+
+3. [MBR (Master Boot Record) explained](https://www.ionos.com/digitalguide/server/configuration/what-is-mbr/)<br> A short but deeper dive into MBR.

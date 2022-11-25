@@ -76,3 +76,7 @@ ZCZC W08 60   L05 Quiz related including studying
 ZCZC W08 3    L05 Quiz related including studying
 ZCZC W08 200  L09 Assignment in general
 ZCZC W08 30   L09 Assignment in general
+ZCZC W09 5    L05 Quiz related including studying
+ZCZC W09 80   L05 Quiz related including studying
+ZCZC W09 5    L05 Quiz related including studying
+ZCZC W09 180  L09 Assignment in general
