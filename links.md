@@ -62,3 +62,10 @@ A short read about semaphores. Gives you the basic understanding of the concept.
 2. [What is NVMe™ and why is it important? A Technical Guide](https://blog.westerndigital.com/nvme-important-data-driven-businesses/)<br> A short but deeper dive into the NVMe standard.
 
 3. [MBR (Master Boot Record) explained](https://www.ionos.com/digitalguide/server/configuration/what-is-mbr/)<br> A short but deeper dive into MBR.
+
+### Week 10
+1. [Interrupts](https://www.geeksforgeeks.org/interrupts/)<br> A short refresher on interrupts.
+
+2. [Northbridge](https://www.computerhope.com/jargon/n/northbri.htm)<br> An interesting read about a bygone era.
+
+3. [Southbridge](https://www.computerhope.com/jargon/s/soutbrid.htm)<br> An interesting read about a bygone era.
